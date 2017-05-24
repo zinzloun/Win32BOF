@@ -2,8 +2,8 @@
 
 '''
  war_ftpd 1.65 
- win xp sp3
-
+ win xp sp3 
+ F. Bersani
 '''
 import socket
 
