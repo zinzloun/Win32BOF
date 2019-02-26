@@ -1,2 +1,2 @@
-#WIN32 BUFFER OVERFLOW && Search for bad chars
+# WIN32 BUFFER OVERFLOW && Search for bad chars
 
