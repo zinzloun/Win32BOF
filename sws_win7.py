@@ -3,6 +3,7 @@
 '''
  sws 2.2-rc2
  win 7 enterprise sp1 32bit
+ https://www.exploit-db.com/exploits/19937
 
 '''
      
