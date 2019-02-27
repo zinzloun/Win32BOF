@@ -3,7 +3,8 @@
 '''
  war_ftpd 1.65 
  win xp sp3 
- aggiorna il 24.05 09:53
+ https://www.exploit-db.com/exploits/3570
+ 
 '''
 import socket
 
